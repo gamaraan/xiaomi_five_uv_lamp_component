@@ -6,7 +6,7 @@ Please follow the instructions on [Retrieving the Access Token](https://home-ass
 
 ## Install
 
-You can install this custom component by adding this repository ([https://github.com/vyzaq/xiaomi_five_uv_lamp_component](https://github.com/vyzaq/xiaomi_five_uv_lamp_component/)) to [HACS](https://hacs.xyz/) in the settings menu of HACS first. You will find the custom component in the integration menu afterwards, look for 'Xiaomi Five UV Lamp'. Alternatively, you can install it manually by copying the custom_component folder to your Home Assistant configuration folder.
+You can install this custom component by adding this repository ([https://github.com/gamaraan/xiaomi_five_uv_lamp_component](https://github.com/gamaraan/xiaomi_five_uv_lamp_component/)) to [HACS](https://hacs.xyz/) in the settings menu of HACS first. You will find the custom component in the integration menu afterwards, look for 'Xiaomi Five UV Lamp'. Alternatively, you can install it manually by copying the custom_component folder to your Home Assistant configuration folder.
 
 ## Setup
 
